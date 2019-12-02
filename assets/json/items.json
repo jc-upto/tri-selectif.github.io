@@ -1,0 +1,157 @@
+{  
+  "blue":[
+    {
+      "item" : "Journal 1",
+      "path" : "assets/blue/journaux-1.jpg"
+    },
+    {
+      "item" : "Journal 2",
+      "path" : "assets/blue/journaux-2.jpg"
+    },
+    {
+      "item" : "Magazine 1",
+      "path" : "assets/blue/magazine-1.jpg"
+    },
+    {
+      "item" : "Magazine 2",
+      "path" : "assets/blue/magazine-2.jpg"
+    },
+    {
+      "item" : "Magazine 3",
+      "path" : "assets/blue/magazine-3.jpg"
+    },
+    {
+      "item" : "Magazine 4",
+      "path" : "assets/blue/magazine-4.jpg"
+    }
+  ],
+
+  "brown":[
+    {
+      "item" : "Couches",
+      "path" : "assets/brown/couches.jpg"
+    },
+    {
+      "item" : "Lingettes",
+      "path" : "assets/brown/lingettes.jpg"
+    },
+    {
+      "item" : "Repas 1",
+      "path" : "assets/brown/repas-1.jpg"
+    },
+    {
+      "item" : "Repas 2",
+      "path" : "assets/brown/repas-2.jpg"
+    },
+    {
+      "item" : "Repas 3",
+      "path" : "assets/brown/repas-3.jpg"
+    },
+    {
+      "item" : "Viennoiseries",
+      "path" : "assets/brown/viennoiseries.jpg"
+    },
+    {
+      "item" : "Yogourth 1",
+      "path" : "assets/brown/yaourt.jpg"
+    },
+    {
+      "item" : "Yogourth 2",
+      "path" : "assets/brown/yaourt-2.jpg"
+    }
+  ],
+
+  "green":[
+    {
+      "item" : "Bière",
+      "path" : "assets/green/biere.jpg"
+    },
+    {
+      "item" : "Confiture",
+      "path" : "assets/green/confiture.jpg"
+    },
+    {
+      "item" : "Pot de conserve",
+      "path" : "assets/green/conserve-pot.jpg"
+    },
+    {
+      "item" : "Huild d'olive vide",
+      "path" : "assets/green/huile.jpg"
+    },
+    {
+      "item" : "Jus de fruits",
+      "path" : "assets/green/jus-fruits.jpg"
+    },
+    {
+      "item" : "Liqueur/Apéro",
+      "path" : "assets/green/liqueur.jpg"
+    },
+    {
+      "item" : "Nourriture nourrisson",
+      "path" : "assets/green/pot-nourrisson.jpg"
+    },
+    {
+      "item" : "Soupe",
+      "path" : "assets/green/soupe.jpg"
+    },
+    {
+      "item" : "Vin",
+      "path" : "assets/green/vin.jpg"
+    }
+  ],
+
+  "yellow":[
+    {
+      "item" : "Barquette aluminium",
+      "path" : "assets/yellow/barquette-aluminium.jpg"
+    },
+    {
+      "item" : "Soins du corps",
+      "path" : "assets/yellow/body-care.jpg"
+    },
+    {
+      "item" : "Canette soda",
+      "path" : "assets/yellow/cannette.jpg"
+    },
+    {
+      "item" : "Conserve",
+      "path" : "assets/yellow/conserve.jpg"
+    },
+    {
+      "item" : "Désodorisant",
+      "path" : "assets/yellow/desodorisant.jpg"
+    },
+    {
+      "item" : "Produit sols",
+      "path" : "assets/yellow/floor-washing.jpg"
+    },
+    {
+      "item" : "Jus",
+      "path" : "assets/yellow/juices.jpg"
+    },
+    {
+      "item" : "Lave vitres",
+      "path" : "assets/yellow/lave-vitres.jpg"
+    },
+    {
+      "item" : "Lait",
+      "path" : "assets/yellow/milk.jpg"
+    },
+    {
+      "item" : "Lait tétrapack",
+      "path" : "assets/yellow/milk-tetra.jpg"
+    },
+    {
+      "item" : "Mousse à raser",
+      "path" : "assets/yellow/mousse-a-raser.jpg"
+    },
+    {
+      "item" : "Soda",
+      "path" : "assets/yellow/soda.jpg"
+    },
+    {
+      "item" : "Bouteille d'eau",
+      "path" : "assets/yellow/water.jpg"
+    }
+  ]
+}

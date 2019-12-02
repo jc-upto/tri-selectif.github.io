@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+    background: #106900 no-repeat fixed;
+    color: white;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 2%;
+}
+
+section div, #game-result {
+    width: 40%;
+    background-color: white;
+    color: #383838;
+    border-radius : 10px;
+    padding: 10px;
+    min-height: 400px;
+}
+
+#game-result {
+    background-color: #688799;
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+    width: 80%;
+    min-height: 80px;
+    max-height: 80px;
+}
+
+#game-result div {
+    margin-left: 20px;
+}
+
+#game-result img {
+    width: 100%;
+}
+
+#logo {
+    width: 5%;
+}
+
+
+h2 {
+    display: inline-block;
+    font-size: 32px;
+    font-style: italic;
+}
+
+#credits {
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+#viewport {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+
+#eugene {
+    display: flex;
+    flex-direction: column;
+}
+
+#fline, #sline {
+    display: flex;
+    flex-direction: row;
+    width: 98%;
+    justify-content: space-around;
+    border-radius: 0;
+    height: 200px;
+    min-height: 200px;
+    max-height: 200px;
+}
+
+#images-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#images-container img:hover {
+    color: #424242;
+    transition: all .3s ease-in;
+    opacity: 1;
+    transform: scale(1.20);
+}
