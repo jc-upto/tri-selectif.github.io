@@ -99,7 +99,7 @@ class SeriousGame
      */
     _getData() {
         let jsonRequest = new XMLHttpRequest();
-        jsonRequest.open('GET', "https://jc-upto.github.io/tri-selectif.github.io/assets/items.json", false);
+        jsonRequest.open('GET', "https://jc-upto.github.io/tri-selectif.github.io/assets/json/items.json", false);
         jsonRequest.send(null);
 
         if (jsonRequest.status === 200) {
